@@ -1,0 +1,8 @@
+Download the SQLite JDBC JAR from:
+  https://github.com/xerial/sqlite-jdbc/releases
+
+Place the file  sqlite-jdbc-X.X.X.jar  in THIS folder (lib/).
+
+Then run:
+  Windows  → double-click compile_run.bat
+  Mac/Linux → ./compile_run.sh
